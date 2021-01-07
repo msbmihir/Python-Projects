@@ -1,0 +1,47 @@
+Table 1,,,,,
+Vehicle Name,Fuel Type,Weight,Top Speed,Turning Angle,Engine CC
+Tesla Model S,Electric,"1,961-2,250 kg",250 km/h,38.8 ft.,850 bhp (615 kW)
+Tesla Model 3,Electric,"1,611-1,847 kg",225 km/h,19.4 ft.,283 hp
+Jaguar I-PACE,Electric,"2,300-2,509 kg",199 km/h,11.0 meters,400 PS
+Audi A3,P/D,"1,490-1,567 kg",250 km/h,5.35 meters,1395 cc
+Audi A4,P/D,"1,640-1721 kg",241 km/h,5.8 meters,1968 cc
+Audi A5,P/D,"1,500-1,565 kg",241 km/h,5.5 meters,1968 cc
+Audi A6,P/D,"1,780-1,840 kg",250 km/h,11.1 meters,1984 cc
+Audi A8,P/D,"2,030-2,123 kg",249 km/h,11.582 meters,2995 cc
+Tata Tiago,P/D,935 - 982 kg,150km/h,4.9m,1199cc
+Tata Nexon,P/D,"1,179 - 1,297 kg",180km/h,5.1m,1199cc
+Tata Harrier ,P/D,"1,650 - 1,675 kg",180km/hr,5.75m,1956cc
+Tata Altroz,P/D,"980 - 1,150 kg",100km/hr,5.0m,1497cc
+Tata Safari,P/D,"1,920 kg",165km/hr,6.0m,2092cc
+Nisson Leaf,Electric,"1,493 kg",144Km/h,34.8 ft.,214 hp 160 kW
+Nexon EV,Electric,"1,400kg",145Km/h,5.0 m.,130.7 bhp
+Tata Tiago,P/D,935 - 982 kg,150km/h,4.9m,1199cc
+Tata Nexon,P/D,"1,179 - 1,297 kg",180km/h,5.1m,1199cc
+Hyundai Eon,Petrol,760 Kg,159km/hr,4.6m,998cc
+Hyundai Elite I20,P/D,1054Kg (P) / 1093 Kg (D),154km/hr,5.2m,1197(P)/1396(D)cc
+Hyundai Grand i10,P/D,935Kg(P)/1025Kg(D),149km/hr,4 8m,1197cc
+Hyundai Xcent,P/D,960Kg(P)/1060Kg(D),155km/hr,4.7m,1197cc
+Hyundai Creta,Diesel ,1367Kg,165km/hr,5.3m,1353(P)/1497(D)cc
+Hyundai Kona E,Electric ,1507Kg,167km/hr,5.3m,64kWh
+TATA Tigor EV,Electric ,1126Kg,135km/hr,5.1m,85kWh
+ Maruti Alto,petrol,850 kg,140 km/hr,4.6m,796 cc
+WaganoR,petrol,830-845,0-100 km/hr,4.7m,1197 cc
+Maruti Dzire,petrol,880-915,145km/hr,4.8m,880-915
+Maruti Baleno sigma 1.2,petrol,865kg,145km/hr,4.9m,1197cc
+Maruti Swift VXI,petrol,860kg,145km/hr,4.8m,1197 cc
+BMW i3,Electric ,1196kg,167km/hr,5m,42.2KWh
+MGZS,Electric ,1491kg,140km/hr,5.1m,44.5KWh
+Ford Figo,Diesel,"1,016 to1,056 Kg",175Kmph,4.9 meters,1499 cc
+Ford Mustang,Diesel,"1,770 Kg",155 mph,6.1 meters,"5,038 cc"
+Ford Endeavour,Diesel,"2,285 to 2,410 kg                                                                                                                ",160 kmph,6.10 meters,1996 cc
+Ford Ecosport,Diesel,"1,188 to 1,309 kg",175 kmph,5.3meters,1498 cc
+Ford Freestyle,Diesel,"1,026 to 1,080 kg",175 kmph,5.0 meters,1499 cc
+Tesla model S,electric,"1,961 to 2,250 kg",155 mph,5.5 meters,100 kwh
+Tesla model X,electric,"2,300 to 2,509 kg",155 mph,"5,900 mm","328 hp , 245 kw"
+Mahindra Scorpio ,Diesel,1825kg,165km/hr,5.4m,2523cc
+Mahindra marazzo,P/D,161KG,145km/hr,5.25m,1497cc
+M.Balero,Diesel,1615kg,117km/hr,5.8m,2.523cc
+M.XUV-300,P/D,1307KG,160km/hr,5.3m,1197cc
+Mahindra TUV-300,Diesel,1626KG,150km/hr,5.35m,1493cc
+Mahindra E-Verito ,Electrical,1265kg,86km/hr,56.25m,30kw
+Mahindra-E2d,Electrical,940kg,80km/hr,4.35m,41.5Kw

@@ -1,0 +1,26 @@
+.First
+{
+    text-decoration: underline;
+    font-weight: bold;
+}
+body
+{
+    background-color: aliceblue;
+}
+.para1
+{
+    font-size: x-large;
+    font-family: cursive;
+}
+.para2
+{
+    font-size: xx-large;
+}
+.para3
+{
+    font-size: xx-large;
+}
+
+
+/* https://www.w3schools.com/cssref/ */
+

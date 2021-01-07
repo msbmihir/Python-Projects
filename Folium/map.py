@@ -1,0 +1,1 @@
+import folium  #used to make Google Mapsmy_map1 = folium.Map(location = [28.5011226, 77.4099794], 										zoom_start = 12 ) my_map1.save(" my_map1.html " )  
